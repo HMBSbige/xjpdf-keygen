@@ -1,9 +1,7 @@
-This is a keygen of xjpdf.
+仅研究算法，做了点微小的工作
 
-Only used for studying and communication.
-
-Do not use it for commercial purpose.
-
-If you like this software, please buy the authorised edition(http://www.xjpdf.com/buy), thanks!
+正版购买：http://www.xjpdf.com/buy
 
 支持最新的6.4版本
+
+不更新了~
